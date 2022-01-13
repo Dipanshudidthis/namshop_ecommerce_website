@@ -1,0 +1,18 @@
+.hedd{
+    font-size: 4rem;
+}
+.checkou{
+    font-size: 4rem;
+}
+
+
+
+@media(max-width: 763px){
+    .hedd{
+        font-size: 200px;
+    }
+    .checkou{
+        font-size: 200px;
+    }
+}
+
